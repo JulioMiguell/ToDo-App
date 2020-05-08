@@ -1,0 +1,8 @@
+{
+    "name": "ToDo APP",
+    "short_name": "ToDo",
+    "theme_color": "#2357f4",
+    "background_color": "#565b60",
+    "display": "fullscreen",
+    "start_url": "https://juliomiguell.github.io/ToDo-App/"
+  }
